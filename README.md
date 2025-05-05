@@ -1,22 +1,49 @@
-## Middle Backend Developer 👋
+<h1 align="center">Hi there, I'm Bekzat 👋</h1>
 
-Experienced in Enterprise and E-commerce domains. I've worked across the full development lifecycle - from designing system architecture to deploying and supporting scalable applications. I specialize in Laravel and Spring, building both monolithic and microservice based solutions
+<p align="center">
+  <strong>Backend Developer | Laravel & Spring | Problem Solver</strong><br>
+  📍 Based in Kazakhstan | 🌍 Open for remote opportunities
+</p>
 
-🛠 Tech Stack
-Languages: PHP, Java, PL/SQL, Python, JavaScript
-Frameworks: Laravel, Spring Boot, Hibernate
-Databases: MySQL, PostgreSQL, Oracle
-Tools: Docker, Git, CI/CD, Postman
-Others: REST APIs, RabbitMQ, Redis, Linux, Docker Compose
+---
 
-🚀 Projects & Highlights
-• Automated product import system that reduced manual workload by 47%
-• Chunk-based optimization for insurance contracts, reducing timeouts by 64%
-• Role-based access control (RBAC) implementation that passed internal InfoSec audit
-• Log4j structured logging for incident root-cause reduction (from 30min to ~10min)
-• Integrated SOAP APIs to sync with external registries (19h saved weekly)
+### 🔧 Tech Stack
 
-📫 How to reach me
-• Email: dev.bekzat@gmail.com
-• Telegram: https://t.me/@staticxyz
-• Whatsapp: https://wa.me/+77716544359
+- **Languages:** `PHP` · `Java` · `PL/SQL` · `Python` · `JavaScript`
+- **Frameworks:** `Laravel` · `Spring Boot` · `Hibernate`
+- **Databases:** `MySQL` · `PostgreSQL` · `Oracle`
+- **DevOps & Tools:** `Docker` · `Git` · `Postman` · `CI/CD` · `Linux`
+
+---
+
+### 🧠 What I do
+
+- Build **scalable backend systems** using Laravel & Spring
+- Optimize **SQL queries** for high-load enterprise platforms
+- Develop **RESTful APIs** and integrate external services
+- Design **clean architecture** following SOLID & DDD principles
+- Automate business processes with **PL/SQL procedures** and microservices
+
+---
+
+### 🚀 Highlights
+
+- 🔁 Reduced manual operations by **47%** through backend automation
+- 🧩 Implemented **chunked data processing** that decreased timeouts by **64%**
+- 🔐 Designed and implemented **RBAC security** layer that passed internal audits
+- 📊 Cut down **incident debugging time** from 30min to ~10min via structured logs
+- 🔗 Integrated SOAP APIs to sync registries and saved 19+ hours weekly
+
+---
+
+### 💬 Let's connect
+
+- 📬 Email: [dev.bekzat@gmail.com](mailto:dev.bekzat@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/bekzat-dev](https://linkedin.com/in/bekzat-dev)  
+- 💬 Telegram: [@bekzatdev](https://t.me/bekzatdev)
+
+---
+
+<p align="center">
+  <em>"I build reliable systems that stay up — even when things go down."</em>
+</p>
