@@ -1,13 +1,16 @@
-<h1 align="center">Hi there, I'm Bekzat 👋</h1>
+<h1 align="center">Middle Backend Developer</h1>
 
 <p align="center">
-  <strong>Backend Developer | Laravel & Spring | Problem Solver</strong><br>
-  📍 Based in Kazakhstan | 🌍 Open for remote opportunities
+  <strong>Laravel & Spring</strong><br>
+  Experienced in Enterprise and E-commerce domains<br>
+  I've worked across the full development lifecycle - from designing system architecture to deploying and supporting scalable applications<br>
+  I specialize in Laravel and Spring, building both monolithic and microservice based solutions
+  
 </p>
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 - **Languages:** `PHP` · `Java` · `PL/SQL` · `Python` · `JavaScript`
 - **Frameworks:** `Laravel` · `Spring Boot` · `Hibernate`
@@ -16,34 +19,24 @@
 
 ---
 
-### 🧠 What I do
+### Achievements 
 
-- Build **scalable backend systems** using Laravel & Spring
-- Optimize **SQL queries** for high-load enterprise platforms
-- Develop **RESTful APIs** and integrate external services
-- Design **clean architecture** following SOLID & DDD principles
-- Automate business processes with **PL/SQL procedures** and microservices
-
----
-
-### 🚀 Highlights
-
-- 🔁 Reduced manual operations by **47%** through backend automation
-- 🧩 Implemented **chunked data processing** that decreased timeouts by **64%**
-- 🔐 Designed and implemented **RBAC security** layer that passed internal audits
-- 📊 Cut down **incident debugging time** from 30min to ~10min via structured logs
-- 🔗 Integrated SOAP APIs to sync registries and saved 19+ hours weekly
+- Reduced manual operations by **47%** through backend automation
+- Implemented **chunked data processing** that decreased timeouts by **64%**
+- Designed and implemented **RBAC security** layer that passed internal audits
+- Cut down **incident debugging time** from 30min to ~10min via structured logs
+- Integrated SOAP APIs to sync registries and saved 19+ hours weekly
 
 ---
 
-### 💬 Let's connect
+### Contact me
 
-- 📬 Email: [dev.bekzat@gmail.com](mailto:dev.bekzat@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/bekzat-dev](https://linkedin.com/in/bekzat-dev)  
-- 💬 Telegram: [@bekzatdev](https://t.me/bekzatdev)
+- Mail: [dev.bekzat@gmail.com](mailto:dev.bekzat@gmail.com)   
+- Telegram: [@staticxyzz](https://t.me/@staticxyzz)
+- Whatsapp: [Chat](https://wa.me/+77716544359) 
 
 ---
 
 <p align="center">
-  <em>"I build reliable systems that stay up — even when things go down."</em>
+  <em>Writing code that ships, scales, and serves millions</em>
 </p>
