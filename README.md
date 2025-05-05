@@ -1,8 +1,7 @@
 <h1 align="center">Middle Backend Developer</h1>
 
 <p align="center">
-  <strong>Laravel & Spring</strong><br>
-  Experienced in Enterprise and E-commerce domains<br>
+  <strong>Experienced in Enterprise and E-commerce domains</strong><br>
   I've worked across the full development lifecycle - from designing system architecture to deploying and supporting scalable applications<br>
   I specialize in Laravel and Spring, building both monolithic and microservice based solutions
   
@@ -33,7 +32,7 @@
 
 - Mail: [dev.bekzat@gmail.com](mailto:dev.bekzat@gmail.com)   
 - Telegram: [@staticxyzz](https://t.me/@staticxyzz)
-- Whatsapp: [Chat](https://wa.me/+77716544359) 
+- Whatsapp: [wa.me](https://wa.me/+77716544359) 
 
 ---
 
