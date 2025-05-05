@@ -1,4 +1,4 @@
-<h1 align="center">Middle Backend Developer</h1>
+<h1 align="center">Bekzat Abdrashid</h1>
 
 <p align="center">
   <strong>Experienced in Enterprise and E-commerce domains</strong><br>
