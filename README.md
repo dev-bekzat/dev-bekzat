@@ -3,8 +3,8 @@
 <p align="center">
   <strong>Experienced in Enterprise and E-commerce domains</strong><br>
   I've worked across the full development lifecycle - from designing system architecture to deploying and supporting scalable applications<br>
-  I specialize in Laravel and Spring, building both monolithic and microservice based solutions
-  
+  I specialize in Laravel and Spring, building both monolithic and microservice based solutions<br>
+  More than 4 years of experience
 </p>
 
 ---
