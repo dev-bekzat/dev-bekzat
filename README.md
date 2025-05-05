@@ -1,6 +1,6 @@
 ## Middle Backend Developer 👋
 
-I'm a backend engineer with a strong background in building scalable, high-load systems using Laravel, Spring Boot, and PL/SQL. I’m passionate about automation, clean architecture, and solving real-world business problems through code
+Experienced in Enterprise and E-commerce domains. I've worked across the full development lifecycle - from designing system architecture to deploying and supporting scalable applications. I specialize in Laravel and Spring, building both monolithic and microservice based solutions
 
 🛠 Tech Stack
 Languages: PHP, Java, PL/SQL, Python, JavaScript
@@ -18,5 +18,5 @@ Others: REST APIs, RabbitMQ, Redis, Linux, Docker Compose
 
 📫 How to reach me
 • Email: dev.bekzat@gmail.com
-• Telegram: t.me/@staticxyz
-• Whatsapp: wa.me/+77716544359
+• Telegram: https://t.me/@staticxyz
+• Whatsapp: https://wa.me/+77716544359
