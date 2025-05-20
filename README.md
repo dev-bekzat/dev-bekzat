@@ -14,7 +14,7 @@
 - **Languages:** `PHP` · `Java` · `PL/SQL` · `Python` · `JavaScript`
 - **Frameworks:** `Laravel` · `Spring Boot` · `Hibernate`
 - **Databases:** `MySQL` · `PostgreSQL` · `Oracle`
-- **DevOps & Tools:** `Docker` · `Git` · `Postman` · `CI/CD` · `Linux`
+- **DevOps & Tools:** `Docker` · `Postman` · `Redis` · `CI/CD` · `Linux`
 
 ---
 
